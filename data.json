@@ -1,0 +1,78 @@
+{
+  "events": [
+    [
+      "Ranking Judô Brasília — Etapa 1",
+      "15/03/2026",
+      "Ginásio de Brasília",
+      "Todas as classes"
+    ],
+    [
+      "Campeonato Metropolitano",
+      "18/04/2026",
+      "Brasília — DF",
+      "Sub-11 a Sênior"
+    ],
+    [
+      "Copa Brasília de Judô",
+      "23/05/2026",
+      "Brasília — DF",
+      "Classes oficiais"
+    ],
+    [
+      "Festival de Judô Escolar",
+      "20/06/2026",
+      "Brasília — DF",
+      "Escolar"
+    ]
+  ],
+  "athletes": [
+    [
+      "01",
+      "Atleta FEMEJU",
+      "Associação Filiada",
+      "Sênior",
+      "1.850",
+      "senior"
+    ],
+    [
+      "02",
+      "Atleta FEMEJU",
+      "Associação Filiada",
+      "Júnior",
+      "1.620",
+      "junior"
+    ],
+    [
+      "03",
+      "Atleta FEMEJU",
+      "Associação Filiada",
+      "Cadete",
+      "1.430",
+      "cadete"
+    ],
+    [
+      "04",
+      "Atleta FEMEJU",
+      "Associação Filiada",
+      "Sênior",
+      "1.310",
+      "senior"
+    ],
+    [
+      "05",
+      "Atleta FEMEJU",
+      "Associação Filiada",
+      "Júnior",
+      "1.180",
+      "junior"
+    ],
+    [
+      "06",
+      "Atleta FEMEJU",
+      "Associação Filiada",
+      "Cadete",
+      "1.050",
+      "cadete"
+    ]
+  ]
+}
